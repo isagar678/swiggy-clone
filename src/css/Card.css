@@ -1,0 +1,12 @@
+.parent{
+    overflow: hidden;
+}
+.slider{
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+}
+.image{
+    width: 150px;
+    height: 150px;
+}
+
